@@ -1,0 +1,11 @@
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\bin\Debug\netcoreapp2.0\api-web-sql.deps.json
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\bin\Debug\netcoreapp2.0\api-web-sql.runtimeconfig.json
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\bin\Debug\netcoreapp2.0\api-web-sql.runtimeconfig.dev.json
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\bin\Debug\netcoreapp2.0\api-web-sql.dll
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\obj\Debug\netcoreapp2.0\api-web-sql.csprojResolveAssemblyReference.cache
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\obj\Debug\netcoreapp2.0\api-web-sql.csproj.CoreCompileInputs.cache
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\obj\Debug\netcoreapp2.0\api-web-sql.AssemblyInfoInputs.cache
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\obj\Debug\netcoreapp2.0\api-web-sql.AssemblyInfo.cs
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\bin\Debug\netcoreapp2.0\api-web-sql.pdb
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\obj\Debug\netcoreapp2.0\api-web-sql.dll
+C:\Users\Agustín Décima\source\repos\api-web-sql\api-web-sql\obj\Debug\netcoreapp2.0\api-web-sql.pdb
